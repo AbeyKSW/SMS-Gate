@@ -1,0 +1,7 @@
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\obj\x86\Debug\SMS_Gate_Windows.Properties.Resources.resources
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\obj\x86\Debug\SMS Gate Windows.csproj.GenerateResource.Cache
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\bin\Debug\SMS Gate Windows.exe
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\bin\Debug\SMS Gate Windows.pdb
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\obj\x86\Debug\SMS Gate Windows.exe
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\obj\x86\Debug\SMS Gate Windows.pdb
+D:\Shared PC\Programs\2018.07.04 - SMS Tool - Rebuild\SMS Gate Windows\SMS Gate Windows\obj\x86\Debug\SMS_Gate_Windows.SMSGate.resources
